@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
-    width: 600px;
+    width: 100%;
+    /* width: 600px; */
     font-weight: 400;
     font-style: normal;
 } 
@@ -40,7 +41,7 @@ header h1, header h3{
 
 @keyframes marquee {
   0% { transform: translateX(100%); }
-  100% { transform: translateX(54%); }
+  100% { transform: translateX(-20%); }
 }
 
 /* item styling */
