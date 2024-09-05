@@ -28,7 +28,7 @@ header h1, header h3{
 /* running text styling */
 .running-text-container {
   margin-top: 10px;
-  width: 600px;
+  width: 100%;
   overflow: hidden;
   white-space: nowrap; /* Prevent text from wrapping */
 }
